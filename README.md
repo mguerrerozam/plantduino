@@ -1,6 +1,6 @@
 # 🌱 PlantDuino – Automated Irrigation with ESP8266 and Telegram
 
-**PlantDuino** is an automated plant irrigation system powered by an **ESP8266** microcontroller, enabling real-time monitoring and remote control of watering through **Telegram**. This project was developed by first-year Computer Engineering students at the **University of Concepción, Chile**.
+**PlantDuino** is an automated plant irrigation system powered by an **ESP8266** microcontroller, enabling real-time monitoring and remote control of watering through **Telegram**. This project was developed by first-year Computer Engineering students at **Universidad de Concepción, Chile**.
 
 ---
 
