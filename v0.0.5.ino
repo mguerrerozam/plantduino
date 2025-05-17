@@ -6,12 +6,12 @@
 #include <EEPROM.h>
 
 // Credenciales de acceso a red WiFi
-const char* ssid = "Verónica PRIME";
-const char* password = "veritowifi";
+const char* ssid = "#TuSSID";  // Cambia por el nombre de tu red WiFi
+const char* password = "#TuPassword";  // Cambia por la contraseña de tu red WiFi
 
 // Configura los parámetros de tu bot de Telegram
-#define BOTtoken "8003846621:AAFlUkgrSASUBH0rW4dKs77CIzLg0Dhua3I"  // Token de tu bot
-#define CHAT_ID "7921063431"  // Tu ID de chat de Telegram
+#define BOTtoken "#TokenDeTuBot"  // Token de tu bot
+#define CHAT_ID "#TU_ID_DE_CHAT_AQUÍ"  // Tu ID de chat de Telegram
 
 // Configuración del sensor de humedad de suelo
 #define SENSOR_ANALOG A0      // Pin analógico para leer valor del sensor
